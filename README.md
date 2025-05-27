@@ -32,3 +32,7 @@ EventLens is the backend system powering a collaborative photography app for soc
 
 ## License  
 No license. Use at your own risk.
+
+## Repository
+
+[GitHub Repository](https://github.com/DanHer01/eventlens)
